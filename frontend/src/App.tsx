@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import VerifyEvent from './components/VerifyEvent'
 
 function App() {

@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import axios from "axios"
 import { CheckCircle2, AlertCircle, AlertTriangle, Loader2 } from "lucide-react"
